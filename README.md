@@ -7,7 +7,7 @@
 </a>
 <br><br>
   
-I'm Sudarshan, zealous self-taught software developer and a computer science grad student at University of South Florida. I see Software engineering as continuous activity of acquiring skills and knowledge. I only have one goal, to learn as much as I can. 
+I'm Sudarshan, zealous self-taught software developer and a computer science grad student at University of South Florida. I see Software engineering as continuous activity of acquiring skills and knowledge. I have 2 goals, to learn as much as I can and develop softwares that make a difference to the society. 
 
 💬 Feel free to ask me about anything, I am happy to help <br>
 📫 Ping me on [Sudarshan's LinkedIn](https://www.linkedin.com/in/sudarshansampathkumar);
